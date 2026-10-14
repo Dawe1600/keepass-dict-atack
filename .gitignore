@@ -1,5 +1,5 @@
 *.kdbx
-*.txt
+passwords.txt
 .venv
 .env
 __pycache__
