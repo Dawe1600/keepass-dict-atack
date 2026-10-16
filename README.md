@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## Użycie
 
-1. Upewnij się, że plik bazy (domyślnie `Hasla.kdbx`) jest dostępny w katalogu projektu.
+1. Upewnij się, że plik bazy (domyślnie `DATABASE.kdbx`) jest dostępny w katalogu projektu.
 2. Przygotuj `passwords.txt` (jedno hasło w linii).
 3. Uruchom:
 
