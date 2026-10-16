@@ -1,7 +1,7 @@
 from pykeepass import PyKeePass
 from pykeepass.exceptions import CredentialsError
 
-filename = 'Hasla.kdbx'  # Enter name of keepass database
+filename = 'DATABASE.kdbx'  # Enter name of keepass database
 
 with open('passwords.txt', 'r', encoding='utf-8') as f:
     for line in f:
